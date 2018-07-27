@@ -1,0 +1,19 @@
+{
+  "name": "@wasp/tslint-rules",
+  "version": "1.0.0",
+  "description": "Linting rules for Wasp packages",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waspjs/tslint-rules.git"
+  },
+  "author": "Alex Hicks <alex@alexhicks.net> (https://alexhicks.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waspjs/tslint-rules/issues"
+  },
+  "homepage": "https://github.com/waspjs/tslint-rules#readme"
+}
