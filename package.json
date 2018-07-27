@@ -1,6 +1,6 @@
 {
   "name": "@wasp/tslint-rules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linting rules for Wasp packages",
   "main": "tslint.json",
   "scripts": {
